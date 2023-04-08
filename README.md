@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -8,7 +7,6 @@
     <h1 style="color: rgb(85, 0, 183)">
       Tutto ciò che c'è da sapere su...di ME!
     </h1>
-    </body>
     <div id ="chi sono">
       <h2 style="color: aqua">1 | Chi sono?</h2>
     <p>
@@ -28,7 +26,7 @@
     <div id="Perchè scegliere me">
       <h2 style="color: goldenrod">2 | Perchè Scegliere me ?</h2>
       <p>Ad essere onesti ora come ora potrei non essere utile come un laureato o un diplomato, ma il mio obiettivo è far vedere <b>i miei miglioramenti
-        nel tempo</b>, senza presentarsi con un pezzo di carta dicendo so fare questo e quell'altro. Insomma se non si è capito voglio mostare i <b>FATTI</b></bFATTI> senza
+        nel tempo</b>, senza presentarsi con un pezzo di carta dicendo so fare questo e quell'altro. Insomma se non si è capito voglio mostare i <b>FATTI</b> senza
         spendere troppe parole su quello che so fare.
       </p>
     </div>
