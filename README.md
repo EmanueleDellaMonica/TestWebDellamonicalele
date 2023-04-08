@@ -58,7 +58,6 @@
         <thead style="color:blue">
             <th>Linguaggio</th>
             <th>Livello</th>
-          </tr>
         </thead>
         <tbody>
           <tr>
